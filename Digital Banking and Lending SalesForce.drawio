@@ -1,1 +1,195 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T09:59:36.303Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" version="13.8.1" etag="Ymw3me3dUphAhN6swxr2" type="github"><diagram id="XPeBbtpBbYWh0mAF1Q0t">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-23T10:27:43.858Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="TZHBof_DcAl1KgNXQlGv" version="13.8.1" type="github">
+  <diagram id="XPeBbtpBbYWh0mAF1Q0t" name="Page-1">
+    <mxGraphModel dx="2066" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OENFPkqVyL51loahRDrE-1" value="Deposits - Banking Products" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OENFPkqVyL51loahRDrE-2" target="OENFPkqVyL51loahRDrE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-2" value="KYC Done - Accepted for PA" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OENFPkqVyL51loahRDrE-4" target="OENFPkqVyL51loahRDrE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-4" value="Identification (Invoked if needed)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OENFPkqVyL51loahRDrE-5" target="OENFPkqVyL51loahRDrE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OENFPkqVyL51loahRDrE-5" target="OENFPkqVyL51loahRDrE-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-5" value="Registration (Phone, E-mai, PIN arrangement)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OENFPkqVyL51loahRDrE-7" target="OENFPkqVyL51loahRDrE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OENFPkqVyL51loahRDrE-7" target="OENFPkqVyL51loahRDrE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-7" value="Customer (Or Banking Or Lending)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-10" value="Lending" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="820" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-12" value="Mobile App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="10" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OENFPkqVyL51loahRDrE-13" target="OENFPkqVyL51loahRDrE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-13" value="CRM - SalesForce" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="820" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OENFPkqVyL51loahRDrE-15" target="OENFPkqVyL51loahRDrE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-15" value="Banking CC /BO + Ledger - Mambu" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-17" value="SalesForce CRM" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="900" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OENFPkqVyL51loahRDrE-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1260" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-19" value="SalesForce Prospect" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OENFPkqVyL51loahRDrE-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1260" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-21" value="SF Prospect Identified" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OENFPkqVyL51loahRDrE-24" target="OENFPkqVyL51loahRDrE-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="540" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OENFPkqVyL51loahRDrE-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1390" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-24" value="SF Customer" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OENFPkqVyL51loahRDrE-25" target="OENFPkqVyL51loahRDrE-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-25" value="Phone Number (Confirmed)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OENFPkqVyL51loahRDrE-27" target="OENFPkqVyL51loahRDrE-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OENFPkqVyL51loahRDrE-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-27" value="SF Leads" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="90" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OENFPkqVyL51loahRDrE-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1310" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-29" value="Phone Number (Not confirmed)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OENFPkqVyL51loahRDrE-30" target="OENFPkqVyL51loahRDrE-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-30" value="Identifcation Done (Onfido)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OENFPkqVyL51loahRDrE-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-32" value="Phone Number" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="780" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OENFPkqVyL51loahRDrE-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1400" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-34" value="API Gateway" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OENFPkqVyL51loahRDrE-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="930" y="810" />
+              <mxPoint x="930" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-36" value="AWS Cognito (Can I authenticate?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OENFPkqVyL51loahRDrE-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-38" value="Token Exchange" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OENFPkqVyL51loahRDrE-40" target="OENFPkqVyL51loahRDrE-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-40" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="930" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OENFPkqVyL51loahRDrE-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1370" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-41" value="BPMN (Run worker - Phone number verification)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OENFPkqVyL51loahRDrE-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1320" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-44" value="Worker Phone Verif" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-46" value="Push informaiton to SF" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-52" value="MC -&amp;gt; Push / SMS&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="120" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-54" value="Mambu" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OENFPkqVyL51loahRDrE-57" value="SF Lending&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
